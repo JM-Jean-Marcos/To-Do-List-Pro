@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/css/main.c3ad0403.css",
+    "main.js": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/js/main.9cb3483f.js",
+    "static/js/787.59ed0e4d.chunk.js": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/js/787.59ed0e4d.chunk.js",
+    "index.html": "/JM-Jean-Marcos/To-Do-List-Pro.git/index.html",
+    "main.c3ad0403.css.map": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/css/main.c3ad0403.css.map",
+    "main.9cb3483f.js.map": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/js/main.9cb3483f.js.map",
+    "787.59ed0e4d.chunk.js.map": "/JM-Jean-Marcos/To-Do-List-Pro.git/static/js/787.59ed0e4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3ad0403.css",
+    "static/js/main.9cb3483f.js"
+  ]
+}
